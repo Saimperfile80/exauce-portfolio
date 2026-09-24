@@ -61,11 +61,11 @@ space-portfolio/
     |-- index.ts
   |- constants/
     |-- index.ts
+    |-- portfolio.ts
   |- lib/
     |-- motion.ts
     |-- utils.ts
   |- public/
-  |- .eslintrc.json
   |- .gitignore
   |- eslint.config.mjs
   |- netlify.toml
