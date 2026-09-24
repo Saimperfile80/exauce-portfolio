@@ -6,14 +6,14 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint ."
+    "lint": "tsc --noEmit"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhyyy@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Kasongo Exaucé (Exaucé Kass)",
+    "email": "kass.exauce@example.com",
+    "url": "https://github.com"
   },
-  "description": "Welcome to my full stack Next.js 14 space portfolio.",
+  "description": "Portfolio of Exaucé Kass, Software Developer | AI Enthusiast | Full-Stack Developer",
   "keywords": [
     "reactjs",
     "nextjs",
